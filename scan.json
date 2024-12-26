@@ -2,7 +2,8 @@
   "repositories": [
     {
       "fullName": "AnanyaArmorcode/Webgoat",
-      "branchName": "main"
+      "branchName": "main",
+      "uploadScannerLogs": true
     }
   ]
 }
